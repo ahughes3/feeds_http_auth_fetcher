@@ -1,0 +1,9 @@
+{
+    "name": "drupal/feeds_http_auth_fetcher",
+    "description": "Feeds HTTP Auth Fetcher module fork for Drupal 11 compatibility",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/core": "^8 || ^9 || ^10 || ^11"
+    }
+}
